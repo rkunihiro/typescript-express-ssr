@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+bin/
+build/
+node_modules/
+*.lock
+*.log
+*.swp
+
